@@ -55,6 +55,6 @@ API will be available at: http://127.0.0.1:8000/
 
 
 ##  👥 Author
-Natuva Bhavana 
+Sandi Saketh Reddy
 
-📧 natuvabhavana@gmail.com
+📧 sandisakethreddy@gmail.com
